@@ -1,0 +1,9 @@
+﻿Name,Usage,NCBI Genome Accession,Genome Source,Annotation Source,RNA-seq Used for Annotation (if applicable),Outgroup Species Used,Larvae Stage Name,Larvae RNA-seq Accessions,Adult Stage Name*,Adult RNA-seq Accessions*
+Pristionchus pacificus,Outgroup and Control,GCA_000180635.1,Wormbase Parasite 19 (El_Paco),Wormbase Parasite 19,-,Haemonchus contortus,3rd Stage Larvae,"ERR436383, ERR436384",Mixed Adults,"ERR436387, ERR436388"
+Caenorhabditis elegans,Control,GCA_000002985.3,Wormbase Parasite 19 (WBcel235),Wormbase Parasite 19,-,Haemonchus contortus,3rd Stage Larvae,"SRR006519, SRR006520",Young Adults,"SRR006514, SRR006515, SRR006516"
+Oscheius tipulae,Control,GCA_013425905.1,Wormbase Parasite 19 (ASM1342590v1),Wormbase Parasite 19,-,Haemonchus contortus,3rd Stage Larvae,"SRR26536579, SRR26536578, SRR26536567, SRR26536557, SRR26536556",Mixed Adults,"SRR26536551, SRR26536577, SRR26536576, SRR26536575, SRR26536574"
+Caenorhabditis inopinata,Control,GCA_003052745.1,Wormbase Parasite 19 (Sp34_v7),Wormbase Parasite 19,-,Haemonchus contortus,3rd Stage Larvae,"SRR21661716, SRR21661717",Young Adults,"SRR21661712, SRR21661713"
+Aphelenchus avenae,Outgroup,GCA_020875895.1,NCBI,NCBI,-,-,-,-,-,-
+Plectus sambesii,Outgroup,GCA_002796945.1,Wormbase Parasite 19 (Psam_v1.0),Wormbase Parasite 19,-,-,-,-,-,-
+Bursaphelenchus okinawaensis,Outgroup,GCA_904067145.1,Wormbase Parasite 19 (BOKI2),Wormbase Parasite 19,-,-,-,-,-,-
+Rhabditophanes diutinus,Outgroup and Control,GCA_963281155.1,NCBI,BRAKER3,"ERR4296953, ERR4296956, ERR4297000, ERR4297045, ERR4297085, ERR4297112, ERR4297147, ERR4297148, ERR4297149, ERR4297150, ERR4297151, ERR4297152",Strongyloides ratti,3rd Stage Larvae,"ERR4297045, ERR4297085, ERR4297112",Mixed Adults,"ERR4296953, ERR4296956, ERR4297000"
